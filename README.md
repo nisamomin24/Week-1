@@ -13,9 +13,12 @@ Industry 4.0, also referred as fourth industrial revolution, is the shift in ind
 10. Horizontal and vertical systems (Graham, 2020)
  
 Give two real-world examples of risks that fit into the authors categories.
+
 One of the examples of the technical risk of the business model driven by industry 4.0 is the attack on the power plant in Saudi Arabia in 2017. The attackers used the malware dubbed “triton” to take control of the plant connected through internet and shutting down the system that resulted in damage to the equipment and infrastructure. (Samuel, 2017)
 Furthermore, the attack on Equifax, one of the largest crediting reporting company of USA, suggested data security risk associated with industry 4.0. The attack exposed personal data of approximately 143 million of individuals through attackers gaining access through vulnerability in the open source software framework. (Sara, 2017)
+
 Find another journal article that either supports or contradicts the points made in the cited study.
+
 An article by Yadong on A general framework of digitalization risks in international business highlighted similar risks due to industry 4.0 but categorised them differently as digital interdependence risks, information security risks and regulatory complexity risks. All highlighting different types of risks associated with digitalisation through industry 4.0. (Yadong, 2021)
  
 References:
