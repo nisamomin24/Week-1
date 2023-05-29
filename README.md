@@ -1,4 +1,5 @@
 What do the authors mean by the term ‘Industry 4.0’ - give two examples?
+
 Industry 4.0, also referred as fourth industrial revolution, is the shift in industries towards digitalisation through bringing automation, connectivity and intelligence as compared to the mechanical and analog process in the third industrial revolution. Industry 4.0 focuses on bringing the technology to make machines self-reliant, communicate with each other and handle big data that human can’t in order to increase efficiency and growth. (AMFG, 2019) The technology includes:
 1.    Internet of things
 2.    Big data
